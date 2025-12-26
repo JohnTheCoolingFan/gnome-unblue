@@ -1,0 +1,6 @@
+[X-GNOME-Metatheme]
+Name=gnome-blue-revert
+Type=X-GNOME-Metatheme
+Comment=gnome-blue-revert shell theme
+Encoding=UTF-8
+GtkTheme=gnome-blue-revert
