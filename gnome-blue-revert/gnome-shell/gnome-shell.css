@@ -12,7 +12,7 @@
 @define-color headerbar_bg_color #303030;
 @define-color headerbar_fg_color white;
 @define-color headerbar_border_color white;
-/*@define-color headerbar_backdrop_color @window_bg_color;*/
+/*@define-color headerbar_backdrop_color @window_bg_color;*/ /* // This @ syntax DOES NOT WORK AND BREAKS THE WHOLE THEME */
 @define-color headerbar_backdrop_color #242424;
 @define-color headerbar_shade_color RGB(0 0 0 / 36%);
 
