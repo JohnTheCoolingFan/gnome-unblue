@@ -10,7 +10,7 @@ The shell theme (`gnome-blue-revert`) goes into `~/.local/share/themes/`. Use gn
 
 ## Shell theme accent color
 
-The shell theme has to change the accent colors of the control popout (upper left corner) too. You can take screenshots of the buttons when it's activated, hovered (when activated) and pressed down (when activated) with the theme turned off and use eyedropper on teh screenshots to get the necessary colors.
+The shell theme has to change the accent colors of the control popout (upper right corner) too. You can take screenshots of the buttons when it's activated, hovered (when activated) and pressed down (when activated) with the theme turned off and use eyedropper on teh screenshots to get the necessary colors.
 
 ## Credits
 
